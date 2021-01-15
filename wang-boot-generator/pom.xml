@@ -17,7 +17,7 @@
         <dependency>
             <groupId>mysql</groupId>
             <artifactId>mysql-connector-java</artifactId>
-            <version>5.1.38</version>
+            <version>8.0.16</version>
             <!-- 其实这里应该是provided 或者 test  -->
             <!--<scope>provided</scope>-->
             <scope>compile</scope>
